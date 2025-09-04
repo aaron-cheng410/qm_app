@@ -134,7 +134,7 @@ subclient_config = {
         "Mazi 1": {
             "sheet": "QM - Mazi 1",   # Spreadsheet name
             "folder": "1XUUYPOuP5IaeONMSyIsjMnqHOTkqyAKx",
-            "email": ['aaroncheng410@gmail.com', 'chengaar@usc.edu'],
+            "email": ['Jayroan11@outlook.com', 'info@quickmovers.us', 'mazi20000@hotmail.com', 'Jayroan11@gmail.com'],
         },
         "Mazi 2": {
             "sheet": "QM - Mazi 2",
