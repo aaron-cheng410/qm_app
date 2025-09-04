@@ -1,0 +1,10 @@
+streamlit
+openai
+pandas
+gspread
+oauth2client
+PyDrive2
+google-api-python-client
+pillow
+pillow-heif
+protobuf
